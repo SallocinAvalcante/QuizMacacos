@@ -1,0 +1,22 @@
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo Macaco.csproj.AssemblyReference.cache
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo_Macaco.Properties.Resources.resources
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo Macaco.csproj.GenerateResource.cache
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo Macaco.csproj.CoreCompileInputs.cache
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\bin\Debug\QuizRetorneAo Macaco.exe.config
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\bin\Debug\QuizRetorneAo Macaco.exe
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\bin\Debug\QuizRetorneAo Macaco.pdb
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\bin\Debug\MySql.Data.dll
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\bin\Debug\System.Memory.dll
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\bin\Debug\System.Buffers.dll
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo_Macaco.Questionario.resources
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo_Macaco.Questionario_Q1_.resources
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo Macaco.csproj.CopyComplete
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo Macaco.exe
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo Macaco.pdb
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo_Macaco.Questionario_Q2_.resources
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo_Macaco.Questionario_Q3_.resources
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo_Macaco.Questionario_Q4_.resources
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo_Macaco.Questionario_Q5_.resources
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo_Macaco.Questionario_Resultado_.resources
+C:\Users\NicollasSouza\source\repos\QuizRetorneAo Macaco\QuizRetorneAo Macaco\obj\Debug\QuizRetorneAo_Macaco.Resultados.resources
